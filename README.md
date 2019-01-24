@@ -1,4 +1,4 @@
-# Rasa Boilerplate
+# Rasa LigeroSmart
 
 Um projeto feito em Rasa com configurações necessárias para a construção
 de um projeto grande de chatbot.
